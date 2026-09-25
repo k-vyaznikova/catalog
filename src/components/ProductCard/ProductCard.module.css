@@ -1,0 +1,23 @@
+.card{
+    border: 1px solid #cccccc;
+    padding: 15px;
+    
+    
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+
+
+}
+.card .card__title{
+    font-size: 24px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.card .card__price{
+    color: #256813;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 20px;
+}    
